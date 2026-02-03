@@ -47,8 +47,8 @@ This project is a modification of the Anilab application. It is intended for edu
 
 ---
 
-### Credits
+### Credits & Contacts
 
-**Modded by:** [msrofficial](https://github.com/msrofficial)
+**Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io) <~Click Here for contact.
 
 For more information and updates, visit the project website: [anilabmod.pages.dev](https://anilabmod.pages.dev)
