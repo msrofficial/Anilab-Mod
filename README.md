@@ -1,10 +1,10 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/INSERT_REPO_NAME&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
 
 # Anilab Mod
 
 **If you find this project useful, please consider giving this repository a star.**
 
-**Anilab Mod** is a modified version of the Anilab Android application designed to enhance user experience by re-enabling internal player support. This modification allows users to stream anime directly within the app without relying on external third-party video players.
+**Anilab Mod** is a modified version of the Latest Anilab Android application designed to enhance user experience by re-enabling internal player support. This modification allows users to stream anime directly within the app without relying on external third-party video players.
 
 **Official Website:** [anilabmod.pages.dev](https://anilabmod.pages.dev)
 
