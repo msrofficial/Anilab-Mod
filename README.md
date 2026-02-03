@@ -1,5 +1,3 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
-
 # Anilab Mod
 
 **If you find this project useful, please consider giving this repository a star.**
@@ -8,6 +6,7 @@
 
 **Official Website:** [anilabmod.pages.dev](https://anilabmod.pages.dev)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
 ## About the Project
 
 The original Anilab application currently restricts video playback, requiring users to install and use an external application called SPlayer to watch content.
@@ -39,7 +38,6 @@ Anilab Mod is designed to be a safe alternative for streaming anime. It prioriti
 This project is a modification of the Anilab application. It is intended for educational and personal use to improve app functionality. All content rights belong to their respective owners.
 
 ---
-
 ### Installation
 
 1.  Download the latest APK release from this repository or the [official website](https://anilabmod.pages.dev).
