@@ -17,8 +17,8 @@ The original Anilab application currently restricts video playback, requiring us
 
 The primary reason for this modification is to streamline the viewing process.
 
-* **Original Behavior:** Users are forced to navigate away from the app to SPlayer to view content.
-* **Mod Behavior:** Users can watch anime using the built-in internal player.
+* **Original Behavior:** Users are forced to navigate away from the app to SPlayer to view content. And you can't use it with custom private dns.
+* **Mod Behavior:** Users can watch anime using the built-in internal player. They can also use this app with private dns on.
 
 ## Features
 
