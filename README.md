@@ -40,6 +40,15 @@ This project is a modification of the Anilab application. It is intended for edu
 ---
 ### Installation
 
+<p align="center">
+  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/1.0.0/Anilab.Mod.by.MSR.Sakibur.apk">
+    <img 
+      src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" 
+      alt="Download APK"
+    />
+  </a>
+</p>
+
 1.  Download the latest APK release from this repository or the [official website](https://anilabmod.pages.dev).
 2.  Ensure "Unknown Sources" is enabled in your Android settings.
 3.  Install the APK on your device.
