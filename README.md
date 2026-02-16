@@ -41,7 +41,7 @@ This project is a modification of the Anilab application. It is intended for edu
 ### Installation
 
 <p align="center">
-  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/1.0.0/Anilab.Mod.by.MSR.Sakibur.apk">
+  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
     <img 
       src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" 
       alt="Download APK"
