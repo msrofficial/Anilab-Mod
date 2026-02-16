@@ -23,6 +23,7 @@ The primary reason for this modification is to streamline the viewing process.
 ## Features
 
 * **Internal Player Support:** Bypasses the requirement for SPlayer, allowing for native playback within the application.
+* **AdBlock Detection Bypassed:** Completely removed the annoying "AdBlocker or custom DNS detected" restriction. You can now smoothly use the app with any custom DNS (like AdGuard, NextDNS) or VPN-based adblockers without any interruptions.
 * **Dual Audio Options:** Content is available in both Subbed (SUB) and Dubbed (DUB) formats to overcome language barriers.
 * **Buffer-Free Streaming:** Optimized for a seamless watching experience to minimize lag and interruptions.
 * **Daily Updates:** The library is updated daily with the latest episodes and titles.
