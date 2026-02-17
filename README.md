@@ -20,8 +20,6 @@
 - **Offline Viewing** – Download anime to watch without internet.
 - **Favourites List** – Keep track of your personal collection.
 
-## Safety & Disclaimer
-No sign-up or personal data required. This mod is for educational/personal use only – all content rights belong to their respective owners.
 
 ## Installation
 1. Download the latest APK from below or from the [official website](https://anilabmod.pages.dev).  
