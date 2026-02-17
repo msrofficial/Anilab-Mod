@@ -2,63 +2,35 @@
 
 **If you find this project useful, please consider giving this repository a star.**
 
-**Anilab Mod** is a modified version of the Latest Anilab Android application designed to enhance user experience by re-enabling internal player support. This modification allows users to stream anime directly within the app without relying on external third-party video players.
-
-**Official Website:** [anilabmod.pages.dev](https://anilabmod.pages.dev)
+**Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
-## About the Project
 
-The original Anilab application currently restricts video playback, requiring users to install and use an external application called SPlayer to watch content.
+## Key Mod Features
+- **Internal Player** – No more redirects to external apps (SPlayer). Stream directly inside the app.
+- **AdBlock / Custom DNS Bypass** – Completely removed the annoying "AdBlocker or custom DNS detected" restriction. Works smoothly with AdGuard, NextDNS, VPN adblockers, etc.  
+  Latest update: 16 Feb 2026 – Added this bypass.
+- **All Ads Removed** – Enjoy completely ad-free experience with all in-app advertisements removed.
+- **Skip Intro/Outro** – Skip opening credits and endings with one tap.
+- **Dual Audio** – Subbed & dubbed options.
+- **Buffer-Free Streaming** – Optimised for smooth playback.
+- **Daily Updates** – New episodes and titles added every day.
+- **Offline Viewing** – Download anime to watch without internet.
+- **Favourites List** – Keep track of your personal collection.
 
-**Anilab Mod** removes this dependency. It serves as an all-in-one anime hub where users can watch and download unlimited anime with no sign-up or personal information required. With thousands of titles and regular updates, this modification restores the seamless streaming experience intended for the application.
+## Safety & Disclaimer
+No sign-up or personal data required. This mod is for educational/personal use only – all content rights belong to their respective owners.
 
-## Key Enhancement: Internal Player Support
+## Installation
+1. Download the latest APK from below or from the [official website](https://anilabmod.pages.dev).  
+   <p align="center">
+     <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
+       <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
+     </a>
+   </p>
+2. Enable "Unknown Sources" in your Android settings.
+3. Install the APK and start streaming with the internal player.
 
-The primary reason for this modification is to streamline the viewing process.
-
-* **Original Behavior:** Users are forced to navigate away from the app to SPlayer to view content. And you can't use it with custom private dns.
-* **Mod Behavior:** Users can watch anime using the built-in internal player. They can also use this app with private dns on.
-
-## Features
-
-* **Internal Player Support:** Bypasses the requirement for SPlayer, allowing for native playback within the application.
-* **AdBlock Detection Bypassed:** Completely removed the annoying "AdBlocker or custom DNS detected" restriction. You can now smoothly use the app with any custom DNS (like AdGuard, NextDNS) or VPN-based adblockers without any interruptions.
-* **Dual Audio Options:** Content is available in both Subbed (SUB) and Dubbed (DUB) formats to overcome language barriers.
-* **Buffer-Free Streaming:** Optimized for a seamless watching experience to minimize lag and interruptions.
-* **Daily Updates:** The library is updated daily with the latest episodes and titles.
-* **Offline Viewing:** Supports downloading movies and shows for offline access, allowing playback without an internet connection.
-* **Custom Favorites List:** Users can track and manage a personalized list of favorite anime for easy re-watching or sharing.
-
-## Safety and Security
-
-Anilab Mod is designed to be a safe alternative for streaming anime. It prioritizes user safety and aims to provide an immersive entertainment experience without security concerns. No sign-up or personal data is required to access the library.
-
-## Disclaimer
-
-This project is a modification of the Anilab application. It is intended for educational and personal use to improve app functionality. All content rights belong to their respective owners.
-
----
-### Installation
-
-<p align="center">
-  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
-    <img 
-      src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" 
-      alt="Download APK"
-    />
-  </a>
-</p>
-
-1.  Download the latest APK release from this repository or the [official website](https://anilabmod.pages.dev).
-2.  Ensure "Unknown Sources" is enabled in your Android settings.
-3.  Install the APK on your device.
-4.  Launch the app and enjoy streaming with the internal player.
-
----
-
-### Credits & Contacts
-
-**Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io) <~Click Here for contact.
-
-For more information and updates, visit the project website: [anilabmod.pages.dev](https://anilabmod.pages.dev)
+## Credits
+**Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io)  
+For updates visit: [anilabmod.pages.dev](https://anilabmod.pages.dev)
