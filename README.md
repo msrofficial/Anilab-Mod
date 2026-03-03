@@ -6,6 +6,11 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
 
+## Join Our Community
+
+- **Mod Channel:** @msrpatch - Get all modded app updates, including Anilab Mod
+- **Community Group:** @anilabplus - Join discussions, get help, and connect with other users
+
 ## Latest Update – 16 Feb 2026
 - **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
 
@@ -42,6 +47,8 @@
    </p>
 2. Enable "Unknown Sources" in your Android settings.
 3. Install the APK and start streaming with the internal player.
+
+---
 
 ## Credits
 **Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io)  
