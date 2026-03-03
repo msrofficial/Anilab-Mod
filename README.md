@@ -22,14 +22,14 @@
 
 ---
 
-## Google Sign-In Method (Credit: @bappyroyopu )
+## Google Account Sign-In Method
 
 - Install the official APK (from anilab.to)
 - Log in with the Google account you want to use
 - Wait about 3 seconds
 - Uninstall the official APK
 - Install the Mod APK and ASAP log in using the same Google account
-
+<h5>Credit: @bappyroyopu</h5>
 ---
 
 ## Installation
