@@ -20,6 +20,15 @@
 - **Offline Viewing** – Download anime to watch without internet.
 - **Favourites List** – Keep track of your personal collection.
 
+---
+
+## Google Sign-In Method (Credit: @bappyroyopu )
+
+1️⃣ Install the official APK (from anilab.to)
+2️⃣ Log in with the Google account you want to use
+3️⃣ Wait about 3 seconds
+4️⃣ Uninstall the official APK
+5️⃣ Install the Mod APK and ASAP log in using the same Google account
 
 ## Installation
 1. Download the latest APK from below or from the [official website](https://anilabmod.pages.dev).  
