@@ -4,15 +4,6 @@
 
 **Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
 
-<p align="center">
-  <a href="https://t.me/msrpatch">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6" alt="MSR PatcH" style="box-shadow: 0 0 15px #8B5CF6; border-radius: 10px;"/>
-  </a>
-  <a href="https://t.me/anilabplus">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=%20Anilab%20Plus%20&color=EC4899" alt="Anilab Plus" style="box-shadow: 0 0 15px #EC4899; border-radius: 10px;"/>
-  </a>
-</p>
-
 ## Latest Update – 16 Feb 2026
 - **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
 
@@ -52,6 +43,19 @@
    </p>
 2. Enable "Unknown Sources" in your Android settings.
 3. Install the APK and start streaming with the internal player.
+
+---
+
+<p align="center">
+Looking for better Anilab user's Community? Join:
+  <a href="https://t.me/anilabplus">
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=%20Anilab%20Plus%20&color=EC4899" alt="Anilab Plus" style="box-shadow: 0 0 15px #EC4899; border-radius: 10px;"/>
+  </a>
+Main Channel of Mod Apps:
+<a href="https://t.me/msrpatch">
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6" alt="MSR PatcH" style="box-shadow: 0 0 15px #8B5CF6; border-radius: 10px;"/>
+  </a>
+</p>
 
 ---
 
