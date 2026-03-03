@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://t.me/msrpatch">
-    <img src="https://img.shields.io/badge/Join-MSR_PatcH-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=MSR%20PatcH&color=2CA5E0" alt="MSR PatcH"/>
   </a>
   <a href="https://t.me/anilabplus">
-    <img src="https://img.shields.io/badge/Join-Anilab_Plus-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group"/>
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=Anilab%20Plus&color=2CA5E0" alt="Anilab Plus"/>
   </a>
 </p>
 
