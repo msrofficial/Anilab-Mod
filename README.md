@@ -47,7 +47,7 @@
 ---
 
 <p align="center"><b>
-Looking for better Anilab user's Community? Join:</b></p>
+Looking for a better community for Anilab users? Join us:</b></p>
 
 <p align="center">
   <a href="https://t.me/anilabplus">
