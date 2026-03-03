@@ -4,8 +4,6 @@
 
 **Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
-
 <p align="center">
   <a href="https://t.me/msrpatch">
     <img src="https://img.shields.io/badge/Join-MSR_PatcH-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
@@ -17,6 +15,9 @@
 
 ## Latest Update – 16 Feb 2026
 - **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
+<div align="center"
+![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+</div>
 
 ## Key Mod Features
 - **Internal Player** – No more redirects to external apps (SPlayer). Stream directly inside the app.
