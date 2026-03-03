@@ -5,11 +5,33 @@
 **Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
 
 <p align="center">
-  <a href="https://t.me/msrpatch">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=MSR%20PatcH&color=2CA5E0" alt="MSR PatcH"/>
+  <style>
+    .futuristic-btn {
+      display: inline-block;
+      padding: 15px 30px;
+      margin: 10px;
+      background: linear-gradient(135deg, rgba(42, 82, 152, 0.9), rgba(30, 60, 114, 0.9));
+      color: white;
+      text-decoration: none;
+      border-radius: 15px;
+      font-weight: bold;
+      border: 1px solid rgba(255,255,255,0.2);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      transition: transform 0.3s;
+    }
+    .futuristic-btn:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 40px rgba(42, 82, 152, 0.4);
+    }
+  </style>
+  
+  <a href="https://t.me/msrpatch" class="futuristic-btn">
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=flat-square&label=⚡%20MSR%20PatcH%20⚡&color=2A5298" style="border: none; background: transparent;"/>
   </a>
-  <a href="https://t.me/anilabplus">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=Anilab%20Plus&color=2CA5E0" alt="Anilab Plus"/>
+  
+  <a href="https://t.me/anilabplus" class="futuristic-btn">
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=flat-square&label=🚀%20Anilab%20Plus%20🚀&color=8E2DE2" style="border: none; background: transparent;"/>
   </a>
 </p>
 
