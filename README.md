@@ -30,6 +30,7 @@
 - Uninstall the official APK
 - Install the Mod APK and ASAP log in using the same Google account
 <h5>Credit: @bappyroyopu</h5>
+
 ---
 
 ## Installation
