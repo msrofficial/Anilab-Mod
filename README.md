@@ -24,10 +24,6 @@
 ## Latest Update – 16 Feb 2026
 - **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
-![GitHub All Releases](https://img.shields.io/github/downloads/msrofficial/Anilab-Mod/total)
-
-
 ## Key Mod Features
 - **Internal Player** – No more redirects to external apps (SPlayer). Stream directly inside the app.
 - **AdBlock / Custom DNS Bypass [New]** – Completely removed the annoying "AdBlocker or custom DNS detected" restriction. Works smoothly with AdGuard, NextDNS, VPN adblockers, etc.
