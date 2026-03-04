@@ -4,10 +4,10 @@
 
 # Anilab Mod
 
-[![GitHub Release](https://img.shields.io/github/v/release/msrsakibur/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrsakibur/Anilab-Mod/releases)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/msrsakibur/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrsakibur/Anilab-Mod/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/msrsakibur/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrsakibur/Anilab-Mod/stargazers)
-[![GitHub License](https://img.shields.io/github/license/msrsakibur/Anilab-Mod?style=for-the-badge&color=green)](https://github.com/msrsakibur/Anilab-Mod/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrsakibur/Anilab-Mod/releases)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrsakibur/Anilab-Mod/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrsakibur/Anilab-Mod/stargazers)
+[![GitHub License](https://img.shields.io/github/license/msrofficial/Anilab-Mod?style=for-the-badge&color=green)](https://github.com/msrsakibur/Anilab-Mod/blob/main/LICENSE)
 
 <br>
 
