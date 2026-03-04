@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/icon.png" width="120" height="120" alt="Anilab Mod Logo">
-
 # Anilab Mod
 
 [![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
