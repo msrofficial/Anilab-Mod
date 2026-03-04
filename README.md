@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msrofficial/msrofficial/main/assets/anilab-logo.png" width="120" height="120" alt="Anilab Mod Logo">
+<img src="https://raw.githubusercontent.com/msrofficial/msrofficial/main/assets/icon.png" width="120" height="120" alt="Anilab Mod Logo">
 
 # Anilab Mod
 
