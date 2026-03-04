@@ -1,10 +1,13 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/icon.png" width="120" height="120" alt="Anilab Mod Logo">
+
 # Anilab Mod
 
 [![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
+
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrofficial/Anilab-Mod/commits/main)
+
 [![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial /Anilab-Mod/stargazers)
 
 <br>
