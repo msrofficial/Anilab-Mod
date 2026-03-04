@@ -12,8 +12,8 @@
 <br>
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
-[![Total Downloads](https://img.shields.io/github/downloads/msrsakibur/Anilab-Mod/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/msrsakibur/Anilab-Mod/releases)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fmsrsakibur%2FAnilab-Mod&label=VISITORS&countColor=%2326313b&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+![GitHub All Releases](https://img.shields.io/github/downloads/msrofficial/Anilab-Mod/total)
 
 <hr>
 
