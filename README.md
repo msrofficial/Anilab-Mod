@@ -6,7 +6,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrofficial/Anilab-Mod/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial /Anilab-Mod/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
 
 <br>
 
