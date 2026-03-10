@@ -81,3 +81,5 @@ Main Channel of Mod Apps:</b></p>
 ## Credits
 **Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io)  
 For updates visit: [anilabmod.pages.dev](https://anilabmod.pages.dev)
+
+![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000)
