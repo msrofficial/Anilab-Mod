@@ -9,7 +9,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
- <img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitor Count">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+![All Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000)
 
 <hr>
 
@@ -18,54 +19,10 @@
 
 **If you find this project useful, please consider giving this repository a star(⭐).**
 
-<div align="center">
-  <h2>What is Anilab Mod?</h2>
-  <p>Anilab Mod is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.</p>
-  
-  <p><b>🔥 Mod Info:</b> The SPlayer requirement has been bypassed. You can now seamlessly use the internal player! AdBlock and Custom DNS restrictions are also bypassed.</p>
-</div>
+**Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
 
-<h3>What Makes Anilab Mod One of the Best Streaming Apps?</h3>
-<p>Anilab stands out for its simplicity and features that cater to all anime and entertainment enthusiasts.</p>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <th align="left" width="50%">App Name</th>
-    <th align="center" width="50%">Anilab Mod</th>
-  </tr>
-  <tr>
-    <td align="left"><b>App version</b></td>
-    <td align="center">v2.0.0</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Requirement</b></td>
-    <td align="center">Android 5.0 and above</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Mod By</b></td>
-    <td align="center"><a href="https://msrofficial.github.io">MD Sakibur Rahman</a></td>
-  </tr>
-  <tr>
-    <td align="left"><b>Category</b></td>
-    <td align="center">Entertainment</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Last Update</b></td>
-    <td align="center">16 Feb 2026</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Number of Downloads</b></td>
-    <td align="center"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&label=&color=blue" alt="All Downloads"></td>
-  </tr>
-  <tr>
-    <td align="left"><b>Price</b></td>
-    <td align="center">Free</td>
-  </tr>
-</table>
-
-<br>
+## Latest Update – 16 Feb 2026
+- **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
 
 ## Key Mod Features
 - **Internal Player** – No more redirects to external apps (SPlayer). Stream directly inside the app.
@@ -93,17 +50,13 @@
 
 ## Installation
 1. Download the latest APK from below or from the [official website](https://anilabmod.pages.dev).  
+   <p align="center">
+     <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
+       <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
+     </a>
+   </p>
 2. Enable "Unknown Sources" in your Android settings.
 3. Install the APK and start streaming with the internal player.
-
-<div align="center">
-  <br>
-  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
-    <img src="https://img.shields.io/badge/Download_Anilab_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download Anilab Mod Apk">
-  </a>
-</div>
-
-<br>
 
 ---
 
