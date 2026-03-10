@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="left"><b>Number of Downloads</b></td>
-    <td align="center"><img src="https://img.shields.io/github/downloads/msrofficial/Anilab-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads"></td>
+    <td align="center"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&label=&color=blue" alt="All Downloads"></td>
   </tr>
   <tr>
     <td align="left"><b>Price</b></td>
