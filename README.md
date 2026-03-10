@@ -9,6 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
+<img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitors"/>
 
 *If you find this project useful, please consider giving this repository a star (⭐).*
 
@@ -74,13 +75,12 @@ If you want to log in using your Google Account, follow these steps exactly:
 
 <div align="center">
   <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
-    <img src="https://img.shields.io/badge/Download_APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
-  </a>
+    <img src="https://img.shields.io/badge/Download_OnStream_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download OnStream Mod Apk">
+  </a><br>
   <a href="https://github.com/msrofficial/Anilab-Mod/releases">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000" alt="Total Downloads"/>
   </a>
-  <br><br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitors"/>
+  <br>
 </div>
 
 ---
