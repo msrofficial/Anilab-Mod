@@ -17,7 +17,6 @@
 
 ---
 
-## About
 **Anilab Mod** is a modified version of the latest Anilab Android app designed to enhance your anime streaming experience. It restores the internal video player, removes forced external player requirements, and bypasses AdBlock/custom DNS restrictions—allowing you to stream seamlessly without interruptions.
 
 ### Latest Update (16 Feb 2026)
