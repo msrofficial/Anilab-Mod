@@ -70,8 +70,10 @@ If you want to log in using your Google Account, follow these steps exactly:
 *Credit for this workaround goes to @bappyroyopu.*
 
 </details>
-
+Click on any of the lines above to see the details.
 <br>
+
+---
 
 <div align="center">
   <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
@@ -99,7 +101,7 @@ Looking for a better community for Anilab users? Join us for the latest updates,
 ---
 
 ## Credits
-* **Mod Developer:** [MSR](https://msrsakibur.site)
+* **Mod Developer:** [MD Sakibur Rahman (MSR)](https://msrofficial.github.io)
 * **Updates & Releases:** [anilabmod.pages.dev](https://anilabmod.pages.dev)
 
 ---
