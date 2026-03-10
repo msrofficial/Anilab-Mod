@@ -1,83 +1,103 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/icon.png" width="120" height="120" alt="Anilab Mod Logo">
-
-# Anilab Mod
-
-[![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrofficial/Anilab-Mod/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
-![All Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000)
-
-<hr>
-
+  <img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/icon.png" width="120" alt="Anilab Mod Logo">
+  
+  <h2>What is Anilab Mod?</h2>
+  <p>Anilab Mod is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.</p>
+  
+  <p><b>🔥 Mod Info:</b> The SPlayer requirement has been bypassed. You can now seamlessly use the internal player! Plus, all ads are removed, and AdBlock/Custom DNS restrictions are completely bypassed.</p>
 </div>
 
+  <h3>What Makes Anilab Mod One of the Best Anime Streaming Apps?</h3>
+  <p>Anilab stands out for its simplicity, buffer-free streaming, and features that cater to all anime enthusiasts.</p>
 
-**If you find this project useful, please consider giving this repository a star(⭐).**
+<br>
 
-**Anilab Mod** is a modified version of the latest Anilab Android app that restores the internal video player and removes forced external player requirements. It also bypasses AdBlock/custom DNS restrictions, letting you stream anime seamlessly with any DNS or adblocker.
+<table width="100%">
+  <tr>
+    <th align="left" width="50%">App Name</th>
+    <th align="center" width="50%">Anilab Mod</th>
+  </tr>
+  <tr>
+    <td align="left"><b>App version</b></td>
+    <td align="center">v2.0.0</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Requirement</b></td>
+    <td align="center">Android</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Mod By</b></td>
+    <td align="center"><a href="https://msrofficial.github.io">MD Sakibur Rahman</a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Category</b></td>
+    <td align="center">Entertainment (Anime)</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Visitors</b></td>
+    <td align="center"><img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitor Count"></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Last Update</b></td>
+    <td align="center">16 Feb 2026</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Number of Downloads</b></td>
+    <td align="center"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000" alt="Live Downloads"></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Price</b></td>
+    <td align="center">Free</td>
+  </tr>
+</table>
 
-## Latest Update – 16 Feb 2026
-- **AdBlock / Custom DNS Bypass added** – Now you can use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without seeing the "AdBlocker detected" warning.
+<br>
 
-## Key Mod Features
-- **Internal Player** – No more redirects to external apps (SPlayer). Stream directly inside the app.
-- **AdBlock / Custom DNS Bypass [New]** – Completely removed the annoying "AdBlocker or custom DNS detected" restriction. Works smoothly with AdGuard, NextDNS, VPN adblockers, etc.
-- **All Ads Removed** – Enjoy completely ad-free experience with all in-app advertisements removed.
-- **Skip Intro/Outro** – Skip opening credits and endings with one tap.
-- **Dual Audio** – Subbed & dubbed options.
-- **Buffer-Free Streaming** – Optimised for smooth playback.
-- **Daily Updates** – New episodes and titles added every day.
-- **Offline Viewing** – Download anime to watch without internet.
-- **Favourites List** – Keep track of your personal collection.
+<h3>✨ Key Mod Features</h3>
+<ul>
+  <li><b>Internal Player</b> – No more redirects to external apps (SPlayer). Stream directly inside the app.</li>
+  <li><b>AdBlock / Custom DNS Bypass [New]</b> – Completely removed the annoying "AdBlocker or custom DNS detected" restriction. Works smoothly with AdGuard, NextDNS, VPN adblockers, etc.</li>
+  <li><b>All Ads Removed</b> – Enjoy completely ad-free experience with all in-app advertisements removed.</li>
+  <li><b>Skip Intro/Outro</b> – Skip opening credits and endings with one tap.</li>
+  <li><b>Dual Audio</b> – Subbed & dubbed options.</li>
+  <li><b>Buffer-Free Streaming</b> – Optimised for smooth playback.</li>
+  <li><b>Daily Updates</b> – New episodes and titles added every day.</li>
+  <li><b>Offline Viewing</b> – Download anime to watch without internet.</li>
+  <li><b>Favourites List</b> – Keep track of your personal collection.</li>
+</ul>
 
----
+<br>
 
-## Google Account Sign-In Method
+<h3>🔐 Google Account Sign-In Method</h3>
+<ol>
+  <li>Install the official APK (from anilab.to)</li>
+  <li>Log in with the Google account you want to use</li>
+  <li>Wait about 3 seconds</li>
+  <li>Uninstall the official APK</li>
+  <li>Install the Mod APK and ASAP log in using the same Google account</li>
+</ol>
+<p><i>Credit: @bappyroyopu</i></p>
 
-- Install the official APK (from anilab.to)
-- Log in with the Google account you want to use
-- Wait about 3 seconds
-- Uninstall the official APK
-- Install the Mod APK and ASAP log in using the same Google account
-<h5>Credit: @bappyroyopu</h5>
+<br>
 
----
+<h3>🛠️ Installation</h3>
+<ol>
+  <li>Download the latest APK from below or from the <a href="https://anilabmod.pages.dev">official website</a>.</li>
+  <li>Enable "Unknown Sources" in your Android settings.</li>
+  <li>Install the APK and start streaming with the internal player.</li>
+</ol>
 
-## Installation
-1. Download the latest APK from below or from the [official website](https://anilabmod.pages.dev).  
-   <p align="center">
-     <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
-       <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
-     </a>
-   </p>
-2. Enable "Unknown Sources" in your Android settings.
-3. Install the APK and start streaming with the internal player.
-
----
-
-<p align="center"><b>
-Looking for a better community for Anilab users? Join us:</b></p>
-
-<p align="center">
+<div align="center">
+  <br>
+  <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
+    <img src="https://img.shields.io/badge/Download_Anilab_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download Anilab Mod Apk">
+  </a>
+  <br><br>
+  <a href="https://t.me/msrpatch">
+    <img src="https://img.shields.io/badge/Main_Channel:_MSR_PatcH-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram Channel">
+  </a>
+  <br><br>
   <a href="https://t.me/anilabplus">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=%20Anilab%20Plus%20&color=EC4899" alt="Anilab Plus" style="box-shadow: 0 0 15px #EC4899; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Anilab_Community_Channel-EC4899?style=for-the-badge&logo=telegram&logoColor=white" alt="Anilab Plus Channel">
   </a>
-</p>
-<p align="center"><b>
-Main Channel of Mod Apps:</b></p>
-<p align="center">
-<a href="https://t.me/msrpatch">
-    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6" alt="MSR PatcH" style="box-shadow: 0 0 15px #8B5CF6; border-radius: 10px;"/>
-  </a>
-</p>
-
----
-
-## Credits
-**Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io)  
-For updates visit: [anilabmod.pages.dev](https://anilabmod.pages.dev)
+</div>
