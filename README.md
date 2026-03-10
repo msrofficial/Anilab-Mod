@@ -7,9 +7,9 @@
 [![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrofficial/Anilab-Mod/commits/main)
 [![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
- <img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitor Count">
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
+ <img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitor Count">
 
 <hr>
 
