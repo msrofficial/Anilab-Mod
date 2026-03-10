@@ -10,6 +10,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+![All Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000)
 ![GitHub All Releases](https://img.shields.io/github/downloads/msrofficial/Anilab-Mod/total)
 
 <hr>
@@ -81,5 +82,3 @@ Main Channel of Mod Apps:</b></p>
 ## Credits
 **Modded by:** [MD Sakibur Rahman](https://msrofficial.github.io)  
 For updates visit: [anilabmod.pages.dev](https://anilabmod.pages.dev)
-
-![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000)
