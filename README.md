@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary><b>Google Account Sign-In Workaround</b></summary>
+<summary><b>Google Account Sign-In Method</summary>
 <br>
 
 If you want to log in using your Google Account, follow these steps exactly:
