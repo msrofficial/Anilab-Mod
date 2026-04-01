@@ -10,6 +10,9 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
 <img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=%2337d67a&countColor=%23555555&style=flat" alt="Visitors"/>
+<a href="https://github.com/msrofficial/Anilab-Mod/releases">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&color=orange" alt="Total Downloads"/>
+</a>
 
 *If you find this project useful, please consider giving this repository a star (⭐).*
 
