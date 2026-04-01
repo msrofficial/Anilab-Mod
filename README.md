@@ -82,7 +82,8 @@ Click on any of the lines above to see the details.
     <img src="https://img.shields.io/badge/Download_Anilab_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download Anilab Mod Apk">
   </a><br>
   <a href="https://github.com/msrofficial/Anilab-Mod/releases">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000" alt="Total Downloads"/>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&color=green&style=for-the-badge&label=Total%20Downloads" alt="Total Downloads"/>
+</a>
   </a>
   <br>
 </div>
