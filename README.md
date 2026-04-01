@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/logo@2x.svg" width="300" height="120" alt="Anilab Mod Logo">
+<img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/mediamodifier_cropped_image.png" width="150" height="120" alt="Anilab Mod Logo">
 
 # Anilab Mod
 
