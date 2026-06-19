@@ -78,6 +78,9 @@ Click on any of the lines above to see the details.
 ---
 
 <div align="center">
+  <a href="https://anilabapps.com/">
+    <img src="https://img.shields.io/badge/Download_Anilab_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download Anilab Mod Apk">
+  </a><br>
   <a href="https://github.com/msrofficial/Anilab-Mod/releases/download/2.0.0/Anilab.Mod.by.MSR.Sakibur.V2.apk">
     <img src="https://img.shields.io/badge/Download_Anilab_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download Anilab Mod Apk">
   </a><br>
